@@ -1,0 +1,7 @@
+https://github.com/fantasydatapros/data/tree/master/fantasypros
+
+https://raw.githubusercontent.com/fantasydatapros/data/master/yearly/2016.csv
+https://raw.githubusercontent.com/fantasydatapros/data/master/yearly/2017.csv
+https://raw.githubusercontent.com/fantasydatapros/data/master/yearly/2018.csv
+https://raw.githubusercontent.com/fantasydatapros/data/master/yearly/2019.csv
+https://raw.githubusercontent.com/fantasydatapros/data/master/yearly/2020.csv
